@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"amplifyangulartesta74b9412": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
